@@ -1,4 +1,4 @@
-# PCA-Simple-warp-divergence---Implement-Sum-Reduction.
+Simple warp divergence-Implement Sum Reduction.
 
 ## Aim:
 The aim of this experiment is to compare the performance of two CUDA kernels, reduceUnrolling8 and reduceUnrolling16, which handle 8 and 16 data blocks per thread, respectively.
